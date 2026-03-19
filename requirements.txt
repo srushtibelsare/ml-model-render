@@ -1,5 +1,6 @@
-flask
-gunicorn==20.1.0
-scikit-learn
-numpy
-pandas
+flask 
+gunicorn 
+scikit-learn 
+numpy 
+pandas 
+setuptools
